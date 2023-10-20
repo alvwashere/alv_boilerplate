@@ -14,7 +14,7 @@
 <h1 align='center'> Experienced Developer? Try this!.</h1>
 
 <p align='center'>
-  <strong> If you want to have the best performance possible and you understand at least the basics of developing, you could also head to the <code>framework.lua</code> on both the client side and server side, remove all of the code there and add a shared script to the <code>fxmanifest.lua</code> with your frameworks import file, if it supports one. The frameworks in here by default all support imports.</strong><br><br>
+  <strong> If you want to have the best performance possible and you understand at least the basics of developing, you could also head to the <code>framework.lua</code> on both the client side and server side, remove all of the code there and add a shared script to the <code>fxmanifest.lua</code> with your frameworks import file, if it supports one. The frameworks in here by default all support imports. This is only really recommended if the resource you're utilising the template for only supports one framework.</strong><br><br>
 </p>
 
 <h1 align='center'> Need Support?</h1>
