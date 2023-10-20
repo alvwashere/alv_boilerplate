@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: Ubuntu;
+  overflow: hidden;
+}
